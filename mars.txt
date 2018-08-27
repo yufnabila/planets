@@ -8,4 +8,4 @@ This is new line 3
 =======
 Final attempt!
 
->>>>>>> 530792b3d5edfe17a4179cdcba7e999ae5ad4935
+hello again!
