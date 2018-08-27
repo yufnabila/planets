@@ -1,5 +1,11 @@
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman.
 And a big snake lives at the floor of the ocean.
+This is a new line
 This is a different line added 2
+<<<<<<< HEAD
 This is new line 3
+=======
+Final attempt!
+
+>>>>>>> 530792b3d5edfe17a4179cdcba7e999ae5ad4935
