@@ -3,9 +3,11 @@ The two moons may be a problem for Wolfman.
 And a big snake lives at the floor of the ocean.
 This is a new line
 This is a different line added 2
-<<<<<<< HEAD
 This is new line 3
-=======
 Final attempt!
+<<<<<<< HEAD
 
 hello again!
+=======
+Mars is a planet God made.
+>>>>>>> 9b9e79497d7091d73db3a0925eed4e327dcbd3ed
